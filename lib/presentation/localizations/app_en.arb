@@ -1,0 +1,133 @@
+{
+    "@@locale": "en",
+    "appName": "WorldRecipes",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "recipesBranch": "Recipes",
+    "searchBranch": "Search",
+    "addBranch": "Add",
+    "savedBranch": "Saved",
+    "accountBranch": "Account",
+    "recipesTab": "Recipes",
+    "followingTab": "Following",
+    "noFollowingYetPlaceholder": "No following yet",
+    "noRecipesYetPlaceholder": "No recipes yet",
+    "myRecipesTab": "My recipes",
+    "anErrorOccured": "An error occured",
+    "profileUpdated": "Profile updated",
+    "editNameHint": "Name",
+    "saveAction": "Save",
+    "editTitleHint": "Title",
+    "editDescriptionHint": "Description",
+    "editServingsHint": "Servings",
+    "editServingsExample": "Count",
+    "editPreparationTimeHint": "Preparation time",
+    "editPreparationTimeExample": "1h 30m",
+    "ingredientsLabel": "Ingredients",
+    "addIngredientAction": "Add ingredient",
+    "directionsLabel": "Directions",
+    "addDirectionAction": "Add direction",
+    "createAction": "Create",
+    "uploadAnImageAction": "Upload an image",
+    "editIngredientNameHint": "Name",
+    "editIngredientQuantityOrHint": "Quantity / hint",
+    "cancelAction": "Cancel",
+    "addAction": "Add",
+    "cannotBeBlankError": "Cannot be blank",
+    "createRecipePageTitle": "Create Recipe",
+    "successfullyCreatedRecipe": "Successfully created recipe!",
+    "failedToCreateRecipe": "Failed to create recipe!",
+    "viewAction": "View",
+    "savedRecipesPageTitle": "Saved Recipes",
+    "noSavedRecipesPlaceholder": "No saved recipes",
+    "successfullySavedRecipe": "Successfully saved recipe!",
+    "failedToSaveRecipe": "Failed to save recipe!",
+    "editRecipePageTitle": "Edit Recipe",
+    "deleteRecipeDialogTitle": "Delete recipe",
+    "deleteRecipeDialogContent": "Are you sure you want to delete this recipe?",
+    "deleteAction": "Delete",
+    "themeSystem": "System",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "commentsCount": "Comments ({count})",
+    "@commentsCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "seeCommentsAction": "See comments",
+    "publishedByLabel": "Published by",
+    "moreRecipesFromAuthorLabel": "More recipes from the author",
+    "preparationTimeBlockTitle": "Preparation time: ",
+    "servingsBlockTitle": "Servings: ",
+    "findRecipesLabel": "Find recipes",
+    "mostLikedSearchTypeLabel": "Most liked",
+    "mostCommentedSearchTypeLabel": "Most commented",
+    "newestSearchTypeLabel": "Newest",
+    "oldestSearchTypeLabel": "Oldest",
+    "searchForRecipesLabel": "Search for recipes",
+    "followersCount": "{count} followers",
+    "@followersCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "followingCount": "{count} following",
+    "@followingCount": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "noRecipesFoundPlaceholder": "No recipes found",
+    "signOutDialogTitle": "Sign out",
+    "signOutDialogMessage": "Are you sure you want to sign out?",
+    "signOutAction": "Sign out",
+    "stepLabel": "Step {step}",
+    "@stepLabel": {
+        "placeholders": {
+            "step": {
+                "type": "int"
+            }
+        }
+    },
+    "commentsPageCommentCountLabel": "{count} comments",
+    "@commentsPageCommentCountLabel": {
+        "placeholders": {
+            "count": {
+                "type": "int"
+            }
+        }
+    },
+    "noCommentsYetPlaceholder": "No comments yet",
+    "addCommentAction": "Add a comment",
+    "defaultLocaleOption": "{locale} (Default)",
+    "@defaultLocaleOption": {
+        "placeholders": {
+            "locale": {
+                "type": "String"
+            }
+        }
+    },
+    "followAction": "Follow",
+    "unfollowAction": "Unfollow",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "signInAction": "Sign In",
+    "signUpAction": "Sign Up",
+    "authenticationError": "Authentication error",
+    "signInRequired": "Sign in required",
+    "openProfileAction": "Open profile",
+    "deleteCommentAction": "Delete comment",
+    "deleteCommentDialogTitle": "Delete comment",
+    "deleteCommentDialogMessage": "Are you sure you want to delete this comment?",
+    "noCreatedRecipesPlaceholder": "No created recipes yet",
+    "couldNotLoadError": "Could not load",
+    "retryAction": "Retry" 
+}

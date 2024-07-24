@@ -1,0 +1,4 @@
+enum GetRecipesSource {
+  saved,
+  following,
+}

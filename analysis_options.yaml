@@ -1,0 +1,19 @@
+include: package:very_good_analysis/analysis_options.yaml
+analyzer:
+  errors:
+    invalid_annotation_target: ignore
+  exclude:
+    - '**.freezed.dart'
+    - '**.g.dart'
+    - '**.gr.dart'
+    - '**/generated_plugin_registrant.dart'
+    - 'lib/presentation/localizations/*.dart'
+
+linter:
+  rules:
+    public_member_api_docs: false
+    sort_pub_dependencies: false
+    lines_longer_than_80_chars: false
+    flutter_style_todos: false
+    use_if_null_to_convert_nulls_to_bools: false
+    avoid_positional_boolean_parameters: false
