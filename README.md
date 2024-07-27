@@ -59,7 +59,7 @@ WorldRecipes is a mobile application that allows users to create, browse, save, 
 </div>
 
 ## Installation :hammer_and_wrench:
-1. Clone repository `git clone https://github.com/dartaspninja/recipe_book_app.git`
+1. Clone repository `git clone https://github.com/fleetby/recipe_book_app.git`
 2. Navigate to the project directory
 3. Create a .env file in the root directory and add the following variables:
 ```shell
